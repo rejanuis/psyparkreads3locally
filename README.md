@@ -1,5 +1,5 @@
 ## Pyspark Read S3 From Local
-#####author: https://github.com/rejanuis
+
 ### Prerequesite
 * java jdk 1.8.0
 * python 3.6
@@ -55,6 +55,7 @@
   ![img_2.png](img/img_2.png)
   <br></br>
 * In latest Windows 10, it will prompt you below dialog box, clicks on New button, and add this `%JAVA_HOME%\bin`
+  
   ![img_3.png](img/img_3.png)
   <br></br>
 * Open a command prompt, type :
