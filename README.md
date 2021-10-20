@@ -13,7 +13,9 @@
 * First you must have local that already installed with java jdk 1.8.0 and python, 
   **if you can't or never install java and python just search it on google**
   <br></br>
-####Install Spark
+  
+
+#### Install Spark
 * Download spark on https://archive.apache.org/dist/spark/, haha because thats work for me.
   i dont know exactly which suitable version library org.apache.hadoop:hadoop-aws and 
   com.amazonaws:aws-java-sdk for latest spark version.
@@ -86,6 +88,6 @@
 * Finally, after a long way you can start running your spark script on local machine
 just run <pre>python3.6 sparkreads3.py</pre> or you can directly run with IDE tools
 
-####References
+#### References
 * https://mkyong.com/java/how-to-set-java_home-on-windows-10/
 * https://towardsdatascience.com/installing-apache-pyspark-on-windows-10-f5f0c506bea1
